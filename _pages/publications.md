@@ -9,7 +9,7 @@ author_profile: true
 
 * Personalized input-output hidden Markov models for disease progression modeling. K.A. Severson, L. Chahine, L. Smolensky, K. Ng, J. Hu, S. Ghosh. Machine Learning for Healthcare, 2020. [paper](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5f22cb86bc954f32697e42aa/1596115849139/65_CameraReadySubmission_MJFF_Methodological-5.pdf)
 
-* BEEP: A Python library for battery evaluation and prediction. M. Aykol, P. Herring, C.B. Gopal, J. Montoya, A. Anapolsky, P. Attia, W. Gent, J. Hummelshoj, L. Hung, H.-K. Kwon, P. Moore, D. Schweigert, K.A. Severson, S. Suram, Z. Yang, R.D. Braatz, B. Storey. Software-X, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S2352711020300492)
+* BEEP: A Python library for battery evaluation and prediction. P. Herring, C.B. Gopal, M. Aykol, J.H. Montoya, A. Anapolsky, P.M. Attia, W. Gent, J.S. Hummelshoj, L. Hung, H.-K. Kwon, P. Moore, D. Schweigert, K.A. Severson, S. Suram, Z. Yang, R.D. Braatz, B.D. Storey. Software-X, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S2352711020300492)
 
 * DPVis: Visual analytics with hidden Markov models for disease progression pathways. B.C. Kwon, V. Anand, K.A. Severson, S. Ghosh, Z. Sun, B.I. Frohnert, M. Lundgren, K. Ng. IEEE Transactions on Visualization and Computer Graphics, 2020. [paper](https://www.researchgate.net/profile/Bum_Chul_Kwon/publication/340498092_DPVis_Visual_Analytics_with_Hidden_Markov_Models_for_Disease_Progression_Pathways/links/5e906d34a6fdcca789064e0b/DPVis-Visual-Analytics-with-Hidden-Markov-Models-for-Disease-Progression-Pathways.pdf) [software](http://dpvis.mybluemix.net)
 
