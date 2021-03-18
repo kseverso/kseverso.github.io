@@ -4,7 +4,13 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+## 2020
 
+* Personalized input-output hidden Markov models for disease progression modeling. CBE Computing Seminar at the University of Wisconsin, Virtual.
+
+* Personalized input-output hidden Markov models for disease progression modeling. Machine Learning for Healthcare, Virtual.
+
+* Applications of machine learning in battery research. University of Waterloo Electrochemical Society Student Chapter, Virtual [recording](https://www.youtube.com/watch?v=ZI_am2cOF1s)
 
 ## 2019
 
