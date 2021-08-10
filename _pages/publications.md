@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2021
+* Discovery of Parkinson's disease states and disease progression modelling: A longitudinal data study using machine learning. K.A. Severson, L.M. Chahine, L.A. Smolensky, M. Dhuliawala, M. Frasier, K. Ng, S. Ghosh, J. Hu. The Lancet Digital Health, 2021. [paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00101-1/fulltext)
+
 ## 2020
 
 * Personalized input-output hidden Markov models for disease progression modeling. K.A. Severson, L. Chahine, L. Smolensky, K. Ng, J. Hu, S. Ghosh. Machine Learning for Healthcare, 2020. [paper](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5f22cb86bc954f32697e42aa/1596115849139/65_CameraReadySubmission_MJFF_Methodological-5.pdf)
