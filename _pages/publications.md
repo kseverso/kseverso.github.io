@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## 2021
+* Statistical learning for accurate and interpretable battery lifetime prediction. P.M. Attia, K.A. Severson, J.D. Witmer. Journal of the Electrochemical Society, 2021. [paper](https://iopscience.iop.org/article/10.1149/1945-7111/ac2704/pdf) 
+
 * Discovery of Parkinson's disease states and disease progression modelling: A longitudinal data study using machine learning. K.A. Severson, L.M. Chahine, L.A. Smolensky, M. Dhuliawala, M. Frasier, K. Ng, S. Ghosh, J. Hu. The Lancet Digital Health, 2021. [paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00101-1/fulltext)
 
 ## 2020
