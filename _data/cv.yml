@@ -1,0 +1,51 @@
+cv:
+  name: Kristen A. Severson
+  label: Principal Researcher
+  email: kseverson@microsoft.com
+  location: Cambridge, MA
+  image: ""
+  summary: Principal Researcher at Microsoft Research New England working on machine learning for healthcare and science.
+
+  social_networks:
+    - network: GitHub
+      username: kseverso
+    - network: Google Scholar
+      url: https://scholar.google.com/citations?user=yoRZJtwAAAAJ&hl=en
+
+  sections:
+    Education:
+      - institution: Massachusetts Institute of Technology
+        location: Cambridge, MA
+        area: Chemical Engineering
+        studyType: PhD
+        start_date: 2013
+        end_date: 2018
+
+      - institution: Carnegie Mellon University
+        location: Pittsburgh, PA
+        area: Chemical Engineering with an additional major in French and Francophone Studies
+        studyType: BS
+        start_date: 2007
+        end_date: 2011
+
+    Experience:
+      - company: Microsoft Research New England
+        position: Principal Researcher
+        location: Cambridge, MA
+        start_date: 2022
+        end_date:
+        summary: Leading research on foundation models for computational pathology (Virchow, Prism) and machine learning for healthcare on the BioML team.
+
+      - company: Microsoft Research New England
+        position: Senior Researcher
+        location: Cambridge, MA
+        start_date: 2020
+        end_date: 2022
+        summary: Research on disease progression modeling and ML for science on the BioML team.
+
+      - company: IBM Research
+        position: Research Staff Member / Postdoctoral Researcher
+        location: Cambridge, MA
+        start_date: 2018
+        end_date: 2020
+        summary: Center for Computational Health and MIT-IBM Watson AI Lab. Research on disease progression modeling, unsupervised learning, and clinical risk prediction.
